@@ -3,7 +3,7 @@
 https://www.kaggle.com/blastchar/telco-customer-churn
 
 Hi :)
-Contains a result analysis & strategic recommendation based on:
+Contains Result Analysis & Strategic Recommendations based on:
 
 **Supervised machine learning**: 
 	- Classification (Logistic Regression, KNN Classification, Naive Bayes, Decision Trees, Support Vector Machines, Linear Discriminant Analysis)
@@ -11,10 +11,12 @@ Contains a result analysis & strategic recommendation based on:
 **Unsupervised machine learning**:
 	- Clustering (K-Means Clustering, Silhouette Score, Elbow Method, Centroids)
 
-+ **Model Evaluation**
+---
 
-+ **Metric Performance** (Accuracy, neg_log_loss, ROC AUC, Classification Report, Confusion Matrix)
+**Model Evaluation**
 
-+ **Ensembles** (Bagged Decision Trees, Random Forest, Extra Trees, AdaBoost, Stochastic Gradient Boosting, Voting Ensemble, Random Forest)
+**Metric Performance** (Accuracy, neg_log_loss, ROC AUC, Classification Report, Confusion Matrix)
 
-+ **XGBoost** (Tuning, Train and Test, Kfold, Stratified Kfold, XGBoost Decision Tree plotting, Feature Importance, Weigth-Cover-Gain)
+**Ensembles** (Bagged Decision Trees, Random Forest, Extra Trees, AdaBoost, Stochastic Gradient Boosting, Voting Ensemble, Random Forest)
+
+**XGBoost** (Tuning, Train and Test, Kfold, Stratified Kfold, XGBoost Decision Tree plotting, Feature Importance, Weigth-Cover-Gain)
