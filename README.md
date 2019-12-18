@@ -1,5 +1,5 @@
 # Telco-Customer-Churn
-## H2Kaggle Dataset. Predict behaviour to retain customers
+### Kaggle Dataset. Predict behaviour to retain customers
 https://www.kaggle.com/blastchar/telco-customer-churn
 
 Hi :)
