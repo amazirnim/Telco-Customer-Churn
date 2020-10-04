@@ -1,8 +1,8 @@
 # Telco-Customer-Churn
 ### Kaggle Dataset. Predict behaviour to retain customers
-https://www.kaggle.com/blastchar/telco-customer-churn
 
-Hi :)
+Link to the notebook: https://github.com/amazirnim/Telco-Customer-Churn/blob/master/kaggle-churn.ipynb
+
 Contains Result Analysis & Strategic Recommendations based on:
 
 **Supervised machine learning**: 
